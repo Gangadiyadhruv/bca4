@@ -1,0 +1,29 @@
+body{
+    align-items: center;
+    background-color: rgb(203, 249, 255);
+}
+h1{
+    color: rgb(172, 107, 232);
+    text-shadow: 0.7px 0.7px 0.7px rgb(62, 56, 56);
+    filter : drop-shadow( 0 20px 20px 20px rgb(62, 56, 56));
+    text-shadow: 1px 1px 1px 1px rgb(71, 69, 69);
+}
+table{
+    background-color: rgb(125, 205, 205);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 5px 5px 5px 2px rgb(71, 69, 69);
+    align-items: center;
+}
+button{
+    background-color: gold;
+    color: maroon;
+    box-shadow: 3px 3px 3px 3px rgb(123, 122, 122);
+    button:haver 1px;
+}
+.a{
+    filter : blur(50px);
+    border-radius: 15px;
+    content: "";
+    animation: spin 2s linear infinite;
+    z-index: 1;
+}
