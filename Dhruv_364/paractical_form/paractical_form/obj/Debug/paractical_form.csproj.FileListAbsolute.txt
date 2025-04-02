@@ -1,0 +1,9 @@
+F:\Dhruv_c#\Windows_app\paractical_form\paractical_form\bin\Debug\paractical_form.exe.config
+F:\Dhruv_c#\Windows_app\paractical_form\paractical_form\bin\Debug\paractical_form.exe
+F:\Dhruv_c#\Windows_app\paractical_form\paractical_form\bin\Debug\paractical_form.pdb
+F:\Dhruv_c#\Windows_app\paractical_form\paractical_form\obj\Debug\paractical_form.csprojResolveAssemblyReference.cache
+F:\Dhruv_c#\Windows_app\paractical_form\paractical_form\obj\Debug\paractical_form.Form1.resources
+F:\Dhruv_c#\Windows_app\paractical_form\paractical_form\obj\Debug\paractical_form.Properties.Resources.resources
+F:\Dhruv_c#\Windows_app\paractical_form\paractical_form\obj\Debug\paractical_form.csproj.GenerateResource.Cache
+F:\Dhruv_c#\Windows_app\paractical_form\paractical_form\obj\Debug\paractical_form.exe
+F:\Dhruv_c#\Windows_app\paractical_form\paractical_form\obj\Debug\paractical_form.pdb
