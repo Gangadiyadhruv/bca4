@@ -1,0 +1,9 @@
+F:\Dhruv_c#\Windows_app\multi_sript\multi_sript\bin\Debug\multi_sript.exe.config
+F:\Dhruv_c#\Windows_app\multi_sript\multi_sript\bin\Debug\multi_sript.exe
+F:\Dhruv_c#\Windows_app\multi_sript\multi_sript\bin\Debug\multi_sript.pdb
+F:\Dhruv_c#\Windows_app\multi_sript\multi_sript\obj\Debug\multi_sript.csprojResolveAssemblyReference.cache
+F:\Dhruv_c#\Windows_app\multi_sript\multi_sript\obj\Debug\multi_sript.Form1.resources
+F:\Dhruv_c#\Windows_app\multi_sript\multi_sript\obj\Debug\multi_sript.Properties.Resources.resources
+F:\Dhruv_c#\Windows_app\multi_sript\multi_sript\obj\Debug\multi_sript.csproj.GenerateResource.Cache
+F:\Dhruv_c#\Windows_app\multi_sript\multi_sript\obj\Debug\multi_sript.exe
+F:\Dhruv_c#\Windows_app\multi_sript\multi_sript\obj\Debug\multi_sript.pdb
