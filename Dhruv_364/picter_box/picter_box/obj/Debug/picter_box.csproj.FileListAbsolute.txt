@@ -1,0 +1,9 @@
+F:\Dhruv_c#\Windows_app\picter_box\picter_box\bin\Debug\picter_box.exe.config
+F:\Dhruv_c#\Windows_app\picter_box\picter_box\bin\Debug\picter_box.exe
+F:\Dhruv_c#\Windows_app\picter_box\picter_box\bin\Debug\picter_box.pdb
+F:\Dhruv_c#\Windows_app\picter_box\picter_box\obj\Debug\picter_box.csprojResolveAssemblyReference.cache
+F:\Dhruv_c#\Windows_app\picter_box\picter_box\obj\Debug\picter_box.Form1.resources
+F:\Dhruv_c#\Windows_app\picter_box\picter_box\obj\Debug\picter_box.Properties.Resources.resources
+F:\Dhruv_c#\Windows_app\picter_box\picter_box\obj\Debug\picter_box.csproj.GenerateResource.Cache
+F:\Dhruv_c#\Windows_app\picter_box\picter_box\obj\Debug\picter_box.exe
+F:\Dhruv_c#\Windows_app\picter_box\picter_box\obj\Debug\picter_box.pdb
