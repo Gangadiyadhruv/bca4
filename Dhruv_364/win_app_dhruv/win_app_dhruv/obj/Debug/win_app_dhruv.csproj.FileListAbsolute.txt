@@ -1,0 +1,9 @@
+F:\Dhruv_c#\Windows_app\win_app_dhruv\win_app_dhruv\bin\Debug\win_app_dhruv.exe.config
+F:\Dhruv_c#\Windows_app\win_app_dhruv\win_app_dhruv\bin\Debug\win_app_dhruv.exe
+F:\Dhruv_c#\Windows_app\win_app_dhruv\win_app_dhruv\bin\Debug\win_app_dhruv.pdb
+F:\Dhruv_c#\Windows_app\win_app_dhruv\win_app_dhruv\obj\Debug\win_app_dhruv.csprojResolveAssemblyReference.cache
+F:\Dhruv_c#\Windows_app\win_app_dhruv\win_app_dhruv\obj\Debug\win_app_dhruv.Properties.Resources.resources
+F:\Dhruv_c#\Windows_app\win_app_dhruv\win_app_dhruv\obj\Debug\win_app_dhruv.csproj.GenerateResource.Cache
+F:\Dhruv_c#\Windows_app\win_app_dhruv\win_app_dhruv\obj\Debug\win_app_dhruv.exe
+F:\Dhruv_c#\Windows_app\win_app_dhruv\win_app_dhruv\obj\Debug\win_app_dhruv.pdb
+F:\Dhruv_c#\Windows_app\win_app_dhruv\win_app_dhruv\obj\Debug\win_app_dhruv.Form1.resources

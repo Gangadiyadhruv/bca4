@@ -1,0 +1,15 @@
+F:\Dhruv_c#\Windows_app\App1\App1\bin\Debug\ReverseMap\resources.pri
+F:\Dhruv_c#\Windows_app\App1\App1\bin\Debug\AppxManifest.xml
+F:\Dhruv_c#\Windows_app\App1\App1\bin\Debug\App1.build.appxrecipe
+F:\Dhruv_c#\Windows_app\App1\App1\bld\Debug\priconfig.xml
+F:\Dhruv_c#\Windows_app\App1\App1\bld\Debug\priconfig.xml.intermediate
+F:\Dhruv_c#\Windows_app\App1\App1\bld\Debug\layout.resfiles
+F:\Dhruv_c#\Windows_app\App1\App1\bld\Debug\layout.resfiles.intermediate
+F:\Dhruv_c#\Windows_app\App1\App1\bld\Debug\resources.resfiles
+F:\Dhruv_c#\Windows_app\App1\App1\bld\Debug\resources.resfiles.intermediate
+F:\Dhruv_c#\Windows_app\App1\App1\bld\Debug\pri.resfiles
+F:\Dhruv_c#\Windows_app\App1\App1\bld\Debug\pri.resfiles.intermediate
+F:\Dhruv_c#\Windows_app\App1\App1\bld\Debug\qualifiers.txt
+F:\Dhruv_c#\Windows_app\App1\App1\bld\Debug\qualifiers.txt.intermediate
+F:\Dhruv_c#\Windows_app\App1\App1\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Dhruv_c#\Windows_app\App1\App1\bld\Debug\ProjectArchitectures.txt
