@@ -1,0 +1,9 @@
+F:\Dhruv_c#\Windows_app\Timer_Control\Timer_Control\bin\Debug\Timer_Control.exe.config
+F:\Dhruv_c#\Windows_app\Timer_Control\Timer_Control\bin\Debug\Timer_Control.exe
+F:\Dhruv_c#\Windows_app\Timer_Control\Timer_Control\bin\Debug\Timer_Control.pdb
+F:\Dhruv_c#\Windows_app\Timer_Control\Timer_Control\obj\Debug\Timer_Control.csprojResolveAssemblyReference.cache
+F:\Dhruv_c#\Windows_app\Timer_Control\Timer_Control\obj\Debug\Timer_Control.Form1.resources
+F:\Dhruv_c#\Windows_app\Timer_Control\Timer_Control\obj\Debug\Timer_Control.Properties.Resources.resources
+F:\Dhruv_c#\Windows_app\Timer_Control\Timer_Control\obj\Debug\Timer_Control.csproj.GenerateResource.Cache
+F:\Dhruv_c#\Windows_app\Timer_Control\Timer_Control\obj\Debug\Timer_Control.exe
+F:\Dhruv_c#\Windows_app\Timer_Control\Timer_Control\obj\Debug\Timer_Control.pdb
